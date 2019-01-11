@@ -5,5 +5,5 @@ Git tracks changes of files.
 Git is an amazing system.
 I kown it.
 yes, I know.
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
 It is function number 1.
